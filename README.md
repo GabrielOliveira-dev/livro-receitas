@@ -1,6 +1,6 @@
 # Livro de receitas :man_cook:
 
-Olá! Xesquedele.
+Olá! Bem vindos ao meu livro de receitas.
 
 - Strogonoff de Frango :chicken:
 
